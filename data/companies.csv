@@ -1,0 +1,5 @@
+ticker,name,sector,type,price_mad,price_date,shares_m,revenue_mad_m,ebitda_mad_m,net_income_mad_m,net_debt_mad_m,book_equity_mad_m,dps_mad,fiscal_year,source
+MUT,Mutandis,Food & consumer,corporate,228.50,2026-11-20,9.25,2021.823,315.384,126.161,828.481,,10.5,2025,Financials: Mutandis 2025 press release (AMMC). Price and shares: Casabourse
+CSR,Cosumar,Food & consumer,corporate,180.00,2026-11-20,94.487143,10490,,703.70,,,10.00,2025,Casabourse (secondary)
+OUL,Oulmès,Food & consumer,corporate,1190.00,2026-10-19,1.98,3250,,112.33,,,40.15,2025,Casabourse (secondary)
+DRI,Dari Couspate,Food & consumer,corporate,4180.00,2026-10-23,0.29838,818.40,,52.40,,,140.00,2025,Casabourse (secondary)

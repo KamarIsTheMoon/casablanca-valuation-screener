@@ -1,0 +1,6 @@
+| ticker   | name          | sector          |   price_mad | price_date   |   market_cap_mad_m | pe    | pe_vs_sector   | ev_ebitda   | price_to_sales   | dividend_yield   | payout_ratio   | net_debt_ebitda   |
+|:---------|:--------------|:----------------|------------:|:-------------|-------------------:|:------|:---------------|:------------|:-----------------|:-----------------|:---------------|:------------------|
+| MUT      | Mutandis      | Food & consumer |       228.5 | 2026-11-20   |              2,114 | 16.8x | -25%           | 9.3x        | 1.0x             | 4.6%             | 77.0%          | 2.6x              |
+| OUL      | Oulmès        | Food & consumer |      1190   | 2026-10-19   |              2,356 | 21.0x | -6%            |             | 0.7x             | 3.4%             | 70.8%          |                   |
+| DRI      | Dari Couspate | Food & consumer |      4180   | 2026-10-23   |              1,247 | 23.8x | +6%            |             | 1.5x             | 3.3%             | 79.7%          |                   |
+| CSR      | Cosumar       | Food & consumer |       180   | 2026-11-20   |             17,008 | 24.2x | +8%            |             | 1.6x             | 5.6%             | 134.3%         |                   |
